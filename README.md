@@ -19,6 +19,10 @@ Always up for discussions around a double espresso !
 
 ---
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+
+---
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1m2w73syt1hrrb2wqebubsitm&width=1000&count=3)
 
 ---
