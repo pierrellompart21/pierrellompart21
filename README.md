@@ -23,6 +23,11 @@ Always up for discussions around a double espresso !
 
 ---
 
+![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrellompart21\&show_icons=true\&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)
+
+---
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1m2w73syt1hrrb2wqebubsitm&width=1000&count=3)
 
 ---
