@@ -2,7 +2,8 @@
 
 🔬 **AI for Drug Discovery | Computational Chemist | Molecular Modeler | Former Biochemist** 
 
-Blending **science, machine learning, and molecular modeling** to standardized and optimize **drug design**! I navigate the chemical space, exploring **multi-task learning, molecular simulations, and strategies** to accelerate drug discovery and pharmacokinetics predictions.  
+Blending **science, machine learning, and molecular modeling** to standardized and optimize **drug design** !   
+I navigate the chemical space, exploring **multi-task learning, molecular simulations, and strategies** to accelerate drug discovery and pharmacokinetics predictions.  
 
 ---
 
