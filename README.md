@@ -1,4 +1,4 @@
-# 🌌 Welcome to My Universe! I'm Pierre Llompart 🚀
+# 🌌 Welcome to my universe! I'm Pierre Llompart 🚀
 
 🔬 **AI for Drug Discovery | Computational Chemist | Molecular Modeler | Former Biochemist** 
 
