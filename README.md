@@ -19,7 +19,7 @@ Always up for discussions around a double espresso !
 
 ---
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1m2w73syt1hrrb2wqebubsitm&width={800})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1m2w73syt1hrrb2wqebubsitm)
 
 ---
 
