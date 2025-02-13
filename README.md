@@ -9,9 +9,8 @@
 
 Always up for discussions around a double expresso !  
 
-You can contact me by [mail](pierrellompart@hotmail.com), [LinkedIn](https://www.linkedin.com/in/llompart), or check my publications on [Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=mhnpOc8AAAAJ&hl=fr))  
 ---
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pierrellompart@hotmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/llompart)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/yourhandle](https://x.com/pierre_llompart))
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]([https://scholar.google.com/](https://scholar.google.com/](https://scholar.google.com/citations?user=mhnpOc8AAAAJ&hl=fr))
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]([https://scholar.google.com/citations?user=mhnpOc8AAAAJ&hl=fr])
