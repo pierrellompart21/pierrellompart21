@@ -14,6 +14,27 @@ Blending **science, machine learning, and molecular modeling** to standardized a
 
 ---
 
+## 🌍 Connect & Collaborate
+💡 Always up for discussions on **AI in chemistry**, **drug discovery**, and **molecular modeling** around a double expresso !  
+📧 **Email**: pierrellompart@hotmail.com  
+🔗 **LinkedIn**: [Pierre Llompart](https://www.linkedin.com/in/llompart)  
+📜 **Google Scholar**: [Publications]([https://scholar.google.com/](https://scholar.google.com/citations?user=mhnpOc8AAAAJ&hl=fr))  
+🎤 **Speaking Engagements & Conferences** – [More info coming soon!]  
+
+---
+
+# Wanna know more ?
+
+---
+
+## 📜 Featured Publications
+📖 *Harnessing Medicinal Chemistry Intuition from Collective Intelligence* – [chemrxiv](https://doi.org/10.26434/chemrxiv-2024-0hww3)  
+📖 *Will We Ever Be Able to Accurately Predict Solubility?* – [Nature Scientific Data](https://doi.org/10.1002/minf.202300216)  
+📖 *Kinetic Solubility: Experimental and Machine Learning Perspectives* – [Molecular Informatics](https://doi.org/10.1002/minf.202300216)  
+📖 *Pegylated Phosphine Ligands in Iridium(I) Catalyzed Hydrogen Isotope Exchange Reactions in Aqueous Buffers* – [Chemistry Europe](https://doi.org/10.1002/chem.202402038)  
+
+---
+
 ## 🛠 Tech Arsenal
 🧬 **Computational Chemistry**: Docking, Molecular Dynamics, Homology Modeling, Alphafold, Ultra-Large Virtual Screening, Matched Molecular Pairs, SAR analysis & expansion.
 🧠 **Machine Learning & AI**: PyTorch, Scikit-learn, GNNs, VAEs, Transformers, Mixture-of-Experts, Gradient Boosting, SVM, RF, CatBoost, Gaussian Process.
@@ -30,28 +51,5 @@ Blending **science, machine learning, and molecular modeling** to standardized a
 🔹 **Solubility & Drug Absorption Modeling**: Understanding and modeling bioavailability through data-driven insights.  
 
 ---
-
-## 📜 Featured Publications
-📖 *Harnessing Medicinal Chemistry Intuition from Collective Intelligence* – [chemrxiv](https://doi.org/10.26434/chemrxiv-2024-0hww3)  
-📖 *Will We Ever Be Able to Accurately Predict Solubility?* – [Nature Scientific Data](https://doi.org/10.1002/minf.202300216)  
-📖 *Kinetic Solubility: Experimental and Machine Learning Perspectives* – [Molecular Informatics](https://doi.org/10.1002/minf.202300216)  
-📖 *Pegylated Phosphine Ligands in Iridium(I) Catalyzed Hydrogen Isotope Exchange Reactions in Aqueous Buffers* – [Chemistry Europe](https://doi.org/10.1002/chem.202402038)  
-
----
-
-## 🎭 Beyond the Lab: Hobbies & Adventures
-🏔 **Mountaineer & Climber** – Ice climbing, rock climbing, long-distance treks in Jura, Ecrins, and the Alps.  
-🍷 **Oenophile & Zythology** – Exploring Burgundy wines, Lambic beers, and aged Pǔ’ěr tea.  
-🦜 **Ornithology & Aquascaping** – Bird watching across Europe, South America, and Indonesia.  
-🔥 **Cooking & Pastry** – Dry aging, Pastries, Sous-vide, Smoking meat, Koji, Fermented beverages.  
-
----
-
-## 🌍 Connect & Collaborate
-💡 Always up for discussions on **AI in chemistry**, **drug discovery**, and **molecular modeling** around a double expresso !  
-📧 **Email**: pierrellompart@hotmail.com  
-🔗 **LinkedIn**: [Pierre Llompart](https://www.linkedin.com/in/llompart)  
-📜 **Google Scholar**: [Publications]([https://scholar.google.com/](https://scholar.google.com/citations?user=mhnpOc8AAAAJ&hl=fr))  
-🎤 **Speaking Engagements & Conferences** – [More info coming soon!]  
 
 🚀 Let's build the future of drug discovery together!
