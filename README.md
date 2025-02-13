@@ -19,10 +19,14 @@ Always up for discussions around a double espresso !
 
 ---
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1m2w73syt1hrrb2wqebubsitm)
-
----
-### 🐱 Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrellompart21&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrellompart21&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/pierrellompart21/github-readme-stats)
+
+---
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1m2w73syt1hrrb2wqebubsitm&width={800}&count={3})
+
+
+
+
 
