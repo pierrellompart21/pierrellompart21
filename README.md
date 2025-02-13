@@ -2,10 +2,10 @@
 
 🔬 **AI for Drug Discovery | Computational Chemist | Molecular Modeler | Former Biochemist** 
 
-🧠 Research scientist at Sanofi** in the Integrated Drug Discovery department & PhD candidate at Strasbourg University.  
-🔬 Working on machine learning applied to the modeling of pharmacokinetics in the drug discovery context.  
-🧩 Previously intern at CNRS (BFA Lab), working on peptide optimization and protein-protein molecular dynamics.   
-🏔 Passionate about ice climbing and gastronomy.  
+- 🧠 Research scientist at [Sanofi](https://www.sanofi.fr/fr) in the Integrated Drug Discovery department & PhD candidate at [Strasbourg University](https://complex-matter.unistra.fr/equipes-de-recherche/laboratoire-de-chemoinformatique/team/).  
+- 🔬 Working on machine learning applied to the modeling of pharmacokinetics in the drug discovery context.  
+- 🧩 Previously intern at CNRS ([BFA Lab](https://bfa.u-paris.fr/)), working on peptide optimization and protein-protein molecular dynamics.   
+- 🏔 Passionate about ice climbing and gastronomy.  
 
 Always up for discussions around a double expresso !  
 
