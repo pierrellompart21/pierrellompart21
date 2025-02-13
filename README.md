@@ -1,4 +1,4 @@
-# 🌌 Welcome to my universe! I'm Pierre Llompart 🚀
+# 🌌 Welcome to my universe! I'm Pierre Llompart <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 **AI for Drug Discovery | Computational Chemist | Molecular Modeler | Former Biochemist** 
 
@@ -15,3 +15,9 @@ Always up for discussions around a double expresso !
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/yourhandle](https://x.com/pierre_llompart))
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]([https://scholar.google.com/citations?user=mhnpOc8AAAAJ&hl=fr])
 [![Resume](https://img.shields.io/badge/Resume-4E4E4E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.linkedin.com/in/llompart/overlay/experience/1994064166/multiple-media-viewer/?profileId=ACoAADyDT0cBlJDk0aGmxczvlrLMDnsOU2kCId8&treasuryMediaId=1739375260100&type=DOCUMENT)
+
+---
+### 🐱 Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jarrekk&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarrekk&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
