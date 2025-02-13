@@ -14,6 +14,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: pierrellompart21/metrics@main
+      - uses: pierrellompart21/metrics@latest
         with:
           token: ${{ secrets.METRICS_SECRET }}
