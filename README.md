@@ -1,6 +1,7 @@
 # 🌌 Welcome to My Universe! I'm Pierre Llompart 🚀
 
-🔬 **AI for Drug Discovery | Computational Chemist | Molecular Modeler | Former Biochemist**  
+🔬 **AI for Drug Discovery | Computational Chemist | Molecular Modeler | Former Biochemist** 
+
 Blending **science, machine learning, and molecular modeling** to standardized and optimize **drug design**! I navigate the chemical space, exploring **multi-task learning, molecular simulations, and strategies** to accelerate drug discovery and pharmacokinetics predictions.  
 
 ---
@@ -9,7 +10,7 @@ Blending **science, machine learning, and molecular modeling** to standardized a
 🔹 **AI-driven Chemist** designing **next-gen molecules** with Transformers, Graph Neural Networks & Active Learning.  
 🔹 **Chemical Space Explorer**, taming massive datasets to more effectively extract molecular series of high potential.  
 🔹 **Molecular Modeler**, simulating **protein-ligand & protein-protein dynamics** to understand the key players of their interactions.  
-🔹 **Tinkerer & Innovator**, crafting new **methods for scaffold hopping, hit expansion, and more** from medicinal chemistry concepts to deep learning applications.  
+🔹 **Tinkerer & Innovator**, crafting new **methods for scaffold hopping & hit expansion** from medicinal chemistry concepts to deep learning applications.  
 
 ---
 
