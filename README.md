@@ -2,16 +2,10 @@
 
 🔬 **AI for Drug Discovery | Computational Chemist | Molecular Modeler | Former Biochemist** 
 
-Blending **science, machine learning, and molecular modeling** to standardized and optimize **drug design** !   
-Navigating the chemical space, exploring **multi-task learning, molecular simulations, and exploration strategies**.  
-
----
-
-## 🌟 Who Am I?
-🔹 **AI-driven Chemist** designing **next-gen molecules** with Transformers, Graph Neural Networks & Active Learning.  
-🔹 **Chemical Space Explorer**, taming massive datasets to more effectively extract molecular series of high potential.  
-🔹 **Molecular Modeler**, simulating **protein-ligand & protein-protein dynamics** to understand the key players of their interactions.  
-🔹 **Tinkerer & Innovator**, crafting new **methods for scaffold hopping & hit expansion** from medicinal chemistry concepts to deep learning applications.  
+🧠 **Research scientist at Sanofi** in the **Integrated Drug Discovery department** & **PhD candidate at Strasbourg University**  
+🔬 Working on **machine learning applied to the modeling of pharmacokinetics in the drug discovery context**.  
+🧩 **Previously intern at CNRS (BFA Lab)**, working on **peptide optimization and protein-protein molecular dynamics**.  
+🏔 **Passionate about ice climbing and gastronomy**.  
 
 ---
 
@@ -22,11 +16,15 @@ Navigating the chemical space, exploring **multi-task learning, molecular simula
 📜 **Google Scholar**: [Publications]([https://scholar.google.com/](https://scholar.google.com/citations?user=mhnpOc8AAAAJ&hl=fr))  
 🎤 **Speaking Engagements & Conferences** – [More info coming soon!]  
 
+
+
 ---
 
 # Wanna know more ?
 
 ---
+
+
 
 ## 📜 Featured Publications
 📖 *Harnessing Medicinal Chemistry Intuition from Collective Intelligence* – [chemrxiv](https://doi.org/10.26434/chemrxiv-2024-0hww3)  
