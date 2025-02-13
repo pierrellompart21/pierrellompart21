@@ -36,8 +36,8 @@ Blending **science, machine learning, and molecular modeling** to standardized a
 ---
 
 ## 🛠 Tech Arsenal
-🧬 **Computational Chemistry**: Docking, Molecular Dynamics, Homology Modeling, Alphafold, Ultra-Large Virtual Screening, Matched Molecular Pairs.   
-🧠 **Machine Learning & AI**: PyTorch, Scikit-learn, GNNs, VAEs, Transformers, Mixture-of-Experts, Gradient Boosting, SVM, RF, CatBoost, Gaussian Process.   
+🧬 **Computational Chemistry**: Docking, Molecular Dynamics, Homology Modeling, Alphafold, Virtual Screening, Matched Molecular Pairs.   
+🧠 **Machine Learning & AI**: PyTorch, Scikit-learn, GNNs, VAEs, Transformers, Mixture-of-Experts, Gradient Boosting, SVM, Gaussian Process.   
 📊 **Data Science & Visualization**: Matplotlib, Plotly, UMAP, tSNE, GTM, PCA.  
 📡 **Cheminformatics**: ChEMBL, Enamine, ZINC, DrugBank, BindingDB, OCHEM, Cortellis, Drugbank.   
 🔍 **Optimization & Search**: Genetic Algorithms, Bayesian Optimization, Reinforcement Learning (PPO).   
