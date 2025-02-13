@@ -1,6 +1,6 @@
 # 🌌 Welcome to my universe! I'm Pierre Llompart 🚀
 
-🔬 **AI for Drug Discovery | Computational Chemist | Molecular Modeler | Former Biochemist** 
+**AI for Drug Discovery | Computational Chemist | Molecular Modeler | Former Biochemist** 
 
 - 🧠 Research scientist at [Sanofi](https://www.sanofi.fr/fr) in the Integrated Drug Discovery department & PhD candidate at [Strasbourg University](https://complex-matter.unistra.fr/equipes-de-recherche/laboratoire-de-chemoinformatique/team/).  
 - 🔬 Working on machine learning applied to the modeling of pharmacokinetics in the drug discovery context.  
