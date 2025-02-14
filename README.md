@@ -29,7 +29,7 @@ Always up for discussions around a double espresso !
 ---
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api&theme=gotham)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1m2w73syt1hrrb2wqebubsitm&redirect=true](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1m2w73syt1hrrb2wqebubsitm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)
 
