@@ -29,9 +29,9 @@ Always up for discussions around a double espresso !
 ---
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+# ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1m2w73syt1hrrb2wqebubsitm&redirect=true](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1m2w73syt1hrrb2wqebubsitm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)
+# ![https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1m2w73syt1hrrb2wqebubsitm&redirect=true](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1m2w73syt1hrrb2wqebubsitm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1m2w73syt1hrrb2wqebubsitm&width=1000&count=3)
 
