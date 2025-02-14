@@ -28,6 +28,9 @@ Always up for discussions around a double espresso !
 
 ---
 
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1m2w73syt1hrrb2wqebubsitm&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1m2w73syt1hrrb2wqebubsitm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=4a9b46&bar_color_cover=true)]]
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1m2w73syt1hrrb2wqebubsitm&width=1000&count=3)
 
 ---
